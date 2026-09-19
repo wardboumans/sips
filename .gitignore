@@ -1,0 +1,7 @@
+_pl_cache/
+recrawl.log
+*.tmp
+flat_playlists.json
+.claude/
+__pycache__/
+*.pyc

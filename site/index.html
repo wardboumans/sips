@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Playlist Browser</title>
+<meta name="description" content="Searchable, sortable index of a YouTube channel's playlists and videos.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>&#127916;</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="brand">
+      <h1 id="channelName">Playlist Browser</h1>
+      <a id="channelLink" class="ylink" href="#" target="_blank" rel="noopener">on YouTube &#8599;</a>
+    </div>
+    <div class="stats" id="stats"></div>
+  </div>
+
+  <div class="controls">
+    <div class="searchwrap">
+      <input id="search" type="search" placeholder="Search videos and playlists&hellip;"
+             autocomplete="off" spellcheck="false" aria-label="Search">
+      <kbd class="slash">/</kbd>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab" data-view="videos" role="tab">Videos</button>
+      <button class="tab active" data-view="playlists" role="tab">Playlists</button>
+    </div>
+  </div>
+
+  <div id="filterBar" class="filterbar" hidden>
+    <span class="flabel">Playlist</span>
+    <span id="filterName"></span>
+    <a id="filterYT" href="#" target="_blank" rel="noopener" class="ylink">open &#8599;</a>
+    <button id="clearFilter" class="clear" title="Clear filter">&times;</button>
+  </div>
+</header>
+
+<main>
+  <div id="count" class="count"></div>
+  <table id="table">
+    <thead><tr id="head"></tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <p id="empty" class="empty" hidden>Nothing matches that search.</p>
+</main>
+
+<footer>
+  <span id="updated"></span>
+  <span class="sep">&middot;</span>
+  <span>Dates are approximate for older uploads</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
