@@ -1,5 +1,5 @@
 """Shared helpers for the playlist scraper."""
-import json, os, random, subprocess, sys, time
+import datetime, json, os, random, subprocess, sys, time
 
 CACHE = os.environ.get("PL_CACHE", "_pl_cache")
 
@@ -126,8 +126,28 @@ def video_record(v):
         "title": v.get("title"),
         "duration": v.get("duration"),
         "view_count": v.get("view_count"),
-        "upload_date": v.get("upload_date"),
+        "upload_date": upload_day(v),
     }
+
+
+def upload_day(v):
+    """YYYYMMDD for an entry.
+
+    --dump-single-json carries `timestamp` but not `upload_date`: that one is
+    a derived field yt-dlp only materialises for output templates (--print).
+    So derive it, and fall back to the key in case a future version emits it.
+    """
+    day = v.get("upload_date")
+    if day:
+        return str(day)
+    ts = v.get("timestamp") or v.get("release_timestamp")
+    if not ts:
+        return None
+    try:
+        return datetime.datetime.fromtimestamp(
+            ts, datetime.timezone.utc).strftime("%Y%m%d")
+    except (OSError, OverflowError, ValueError):
+        return None
 
 
 def playlist_record(pid, title, data):
