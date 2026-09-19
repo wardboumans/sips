@@ -6,6 +6,12 @@ the top slice rather than every playlist, walking further down only while
 changes keep turning up. Playlist IDs we've never seen are always rescanned,
 wherever they sit in the order.
 
+Defaults assume a handful of uploads a day: a quiet day costs 5 playlist
+fetches, and a busy one automatically walks further, since every change resets
+the unchanged-streak. Adding a video to a playlist bumps it to the top of the
+tab, so activity cannot hide below the window - but a hand-reordered old
+playlist can, which is what the monthly --full run is for.
+
   python scripts/update_playlists.py @sipslive
   python scripts/update_playlists.py @sipslive --cookies-from-browser firefox
 """
@@ -25,9 +31,9 @@ def main():
     ap.add_argument("--cookies-from-browser")
     ap.add_argument("--cookies")
     ap.add_argument("-s", "--snapshot", default="data/channel_playlists.json")
-    ap.add_argument("--min-scan", type=int, default=25,
+    ap.add_argument("--min-scan", type=int, default=5,
                     help="always rescan at least this many top playlists")
-    ap.add_argument("--stop-after", type=int, default=15,
+    ap.add_argument("--stop-after", type=int, default=5,
                     help="stop once this many consecutive playlists are unchanged")
     ap.add_argument("--max-scan", type=int, default=150, help="hard cap on rescans")
     ap.add_argument("--recent-uploads", type=int, default=50)

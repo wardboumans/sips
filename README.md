@@ -18,8 +18,14 @@ then flat-dump each playlist by ID.
 A full crawl is one request per playlist. The daily job avoids that: the
 playlists tab is ordered **most-recently-updated first**, so it rescans the top
 slice and keeps walking down only while changes keep turning up. Playlist IDs
-never seen before are always rescanned, wherever they appear. That's ~30
-requests a day instead of 539.
+never seen before are always rescanned, wherever they appear.
+
+Defaults (`--min-scan 5`, `--stop-after 5`) assume a few uploads a day: a quiet
+day is 5 playlist fetches, ~10 requests total instead of 539. A busy day walks
+further on its own, because every change resets the unchanged-streak. Adding a
+video to a playlist bumps that playlist to the top of the tab, so activity
+cannot hide below the window — a hand-reordered *old* playlist can, which is
+what the monthly `--full` run catches.
 
 `--extractor-args youtubetab:approximate_date` gets upload dates out of the
 listing for free. They come from YouTube's relative labels ("3 weeks ago"), so
