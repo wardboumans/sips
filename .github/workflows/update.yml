@@ -43,11 +43,15 @@ jobs:
           pip install --upgrade yt-dlp
 
       # only meaningful on a scheduled/manual run; a push just rebuilds the site
+      # Runners share datacenter IPs that YouTube throttles hard, so pace this
+      # well below the local defaults. Nothing waits on this job.
       - name: Refresh playlist data
         id: scrape
         if: github.event_name != 'push'
+        timeout-minutes: 330
         run: |
           python scripts/update_playlists.py "${{ vars.CHANNEL || '@sipslive' }}" \
+            --sleep 5 --sleep-requests 2.5 --pause-every 20 --pause-for 120 \
             ${{ inputs.full && '--full' || '' }}
 
       - name: Build site data

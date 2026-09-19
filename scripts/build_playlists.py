@@ -7,11 +7,12 @@ Responses are cached in _pl_cache/ so re-runs are cheap.
   python scripts/build_playlists.py @sipslive
   python scripts/build_playlists.py @sipslive --cookies-from-browser firefox
 """
-import argparse, datetime, os, sys, time
+import argparse, datetime, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from ytlib import (base_args, channel_url, flat_json, playlist_record,
-                   read_cache, write_cache, write_json_atomic)
+from ytlib import (add_pacing_args, base_args, channel_url, flat_json,
+                   maybe_pause, nap, playlist_record, read_cache, write_cache,
+                   write_json_atomic)
 
 
 def main():
@@ -21,7 +22,7 @@ def main():
     ap.add_argument("--cookies")
     ap.add_argument("-o", "--output", default="data/channel_playlists.json")
     ap.add_argument("--refresh", action="store_true", help="ignore the cache")
-    ap.add_argument("--sleep", type=float, default=0.4)
+    add_pacing_args(ap)
     a = ap.parse_args()
 
     ch = channel_url(a.channel)
@@ -35,6 +36,7 @@ def main():
     print(f"      found {len(pls)} playlists", flush=True)
 
     records, failed = [], []
+    fetched = 0
     print("[2/2] expanding each playlist ...", flush=True)
     for i, pl in enumerate(pls, 1):
         pid = pl["id"]
@@ -46,7 +48,9 @@ def main():
                 failed.append({"id": pid, "title": pl.get("title"), "error": err})
                 continue
             write_cache(pid, data)
-            time.sleep(a.sleep)
+            fetched += 1
+            maybe_pause(fetched, a)
+            nap(a.sleep)
         rec = playlist_record(pid, pl.get("title"), data)
         records.append(rec)
         print(f"  {i}/{len(pls)}  {rec['video_count']:4d} vids  {rec['title']}", flush=True)

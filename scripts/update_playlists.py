@@ -9,10 +9,11 @@ wherever they sit in the order.
   python scripts/update_playlists.py @sipslive
   python scripts/update_playlists.py @sipslive --cookies-from-browser firefox
 """
-import argparse, datetime, json, os, sys, time
+import argparse, datetime, json, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from ytlib import (base_args, channel_url, flat_json, playlist_record, write_cache,
+from ytlib import (add_pacing_args, base_args, channel_url, flat_json,
+                   maybe_pause, nap, playlist_record, write_cache,
                    write_json_atomic, ytdlp)
 
 CHANGELOG = "data/changelog.jsonl"
@@ -34,7 +35,7 @@ def main():
                     help="channel tabs to check for playlist-less uploads")
     ap.add_argument("--full", action="store_true", help="rescan every playlist")
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--sleep", type=float, default=0.4)
+    add_pacing_args(ap)
     a = ap.parse_args()
 
     ch = channel_url(a.channel)
@@ -77,7 +78,8 @@ def main():
         pid = e["id"]
         data, err = flat_json(f"https://www.youtube.com/playlist?list={pid}", base)
         scanned += 1
-        time.sleep(a.sleep)
+        maybe_pause(scanned, a)
+        nap(a.sleep)
         if data is None:
             print(f"  !! {pid} failed: {err}", flush=True)
             continue

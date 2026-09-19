@@ -25,6 +25,30 @@ requests a day instead of 539.
 listing for free. They come from YouTube's relative labels ("3 weeks ago"), so
 recent uploads are day-accurate and older ones are rounded.
 
+## Rate limiting
+
+Nothing waits on these scripts, so they are paced to stay well clear of
+YouTube's limits rather than to finish fast.
+
+yt-dlp does the work it is better placed to do — `--sleep-requests` spaces its
+own paginated API calls, and `--retry-sleep http:exp=5:300` /
+`--retry-sleep extractor:exp=5:300` back off *inside* an extraction, which an
+outer retry cannot. (`--sleep-interval` is download-only and does nothing
+here, since we never download.)
+
+On top of that the scripts add a jittered pause between playlists
+(`--sleep`, default 2.5s), a longer breather every N playlists
+(`--pause-every` / `--pause-for`, default 45s every 50), and an outer retry
+for when yt-dlp gives up entirely. Responses that look like throttling — 429,
+"Sign in to confirm you're not a bot", 403 — get a 4x longer cool-off than an
+ordinary error.
+
+CI runs slower still (`--sleep 5 --sleep-requests 2.5`, 120s every 20),
+because Actions runners share datacenter IPs that YouTube throttles much more
+aggressively than a home connection. If the scheduled job starts failing with
+bot checks, that is why — lower the rate further, or run the refresh locally
+and let CI only deploy.
+
 ## Commands
 
 ```bash

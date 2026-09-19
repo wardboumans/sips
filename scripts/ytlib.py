@@ -1,7 +1,30 @@
 """Shared helpers for the playlist scraper."""
-import json, os, subprocess
+import json, os, random, subprocess, sys, time
 
 CACHE = os.environ.get("PL_CACHE", "_pl_cache")
+
+# stderr fragments that mean "you are going too fast", not "this playlist is broken"
+THROTTLE_SIGNS = (
+    "429", "too many requests", "rate limit", "rate-limit",
+    "sign in to confirm", "not a bot", "temporarily blocked",
+    "unusual traffic", "http error 403", "failed to extract any player response",
+)
+
+
+def is_throttled(err):
+    e = (err or "").lower()
+    return any(s in e for s in THROTTLE_SIGNS)
+
+
+def nap(seconds, jitter=0.35, why=None):
+    """Sleep with jitter. Uniform delays look like a bot; jittered ones don't,
+    and it keeps many playlists from landing on the same cadence."""
+    if seconds <= 0:
+        return
+    d = seconds * (1 + random.uniform(-jitter, jitter))
+    if why:
+        print(f"      ... sleeping {d:.0f}s ({why})", flush=True)
+    time.sleep(d)
 
 
 def ytdlp(args):
@@ -10,15 +33,32 @@ def ytdlp(args):
     return p.returncode, p.stdout, p.stderr
 
 
-def flat_json(url, base):
-    """Run yt-dlp --dump-single-json, return (data, error)."""
-    rc, out, err = ytdlp([*base, "--dump-single-json", url])
-    if not out.strip():
-        return None, (err.strip()[-400:] or "no output")
-    try:
-        return json.loads(out), None
-    except json.JSONDecodeError as e:
-        return None, f"bad json: {e}"
+def flat_json(url, base, retries=3, backoff=60):
+    """Run yt-dlp --dump-single-json, return (data, error).
+
+    Outer retry layer. yt-dlp already backs off inside an extraction (see
+    base_args); this catches the case where it gives up and exits, and gives
+    throttling a much longer cool-off than an ordinary failure - hammering a
+    429 is how you earn a multi-hour block instead of a multi-minute one.
+    """
+    err = "no attempt"
+    for attempt in range(retries):
+        rc, out, e = ytdlp([*base, "--dump-single-json", url])
+        if out.strip():
+            try:
+                return json.loads(out), None
+            except json.JSONDecodeError as ex:
+                err = f"bad json: {ex}"
+        else:
+            err = (e or "").strip()[-400:] or "no output"
+
+        if attempt == retries - 1:
+            break
+        throttled = is_throttled(err)
+        wait = backoff * (4 ** attempt) if throttled else backoff * (2 ** attempt)
+        nap(wait, why=("throttled, backing off" if throttled else
+                       f"retry {attempt + 2}/{retries}"))
+    return None, err
 
 
 def channel_url(ch):
@@ -34,7 +74,41 @@ def base_args(ns, approximate_date=True):
     args = ["--flat-playlist", "--no-warnings", "--ignore-errors"]
     if approximate_date:
         args += ["--extractor-args", "youtubetab:approximate_date"]
+    # Let yt-dlp pace and retry itself where it can - it backs off *within* an
+    # extraction, which an outer retry cannot do.
+    #   --sleep-requests   spaces its own API calls (a long playlist paginates)
+    #   --retry-sleep      exponential 5s -> 300s cap, for HTTP and extractor
+    # (--sleep-interval is download-only, so it does nothing for us here.)
+    rq = getattr(ns, "sleep_requests", None)
+    if rq:
+        args += ["--sleep-requests", str(rq)]
+    args += [
+        "--retries", "10",
+        "--extractor-retries", "5",
+        "--retry-sleep", "http:exp=5:300",
+        "--retry-sleep", "extractor:exp=5:300",
+    ]
     return args + auth_args(ns)
+
+
+def add_pacing_args(ap, sleep=2.5, sleep_requests=1.0,
+                    pause_every=50, pause_for=45):
+    """Shared rate-limit knobs. Defaults are deliberately unhurried - a full
+    crawl is a background job, and a block costs far more than the wait."""
+    ap.add_argument("--sleep", type=float, default=sleep,
+                    help="seconds between playlists (jittered)")
+    ap.add_argument("--sleep-requests", type=float, default=sleep_requests,
+                    help="seconds between yt-dlp's own HTTP requests")
+    ap.add_argument("--pause-every", type=int, default=pause_every,
+                    help="take a longer break every N playlists (0 disables)")
+    ap.add_argument("--pause-for", type=float, default=pause_for,
+                    help="how long that longer break is")
+
+
+def maybe_pause(n, ns):
+    """Longer breather every --pause-every playlists."""
+    if ns.pause_every and n and n % ns.pause_every == 0:
+        nap(ns.pause_for, why=f"breather after {n} playlists")
 
 
 def auth_args(ns):
