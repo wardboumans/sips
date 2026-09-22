@@ -2,22 +2,22 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-09-21T10:52:01+00:00",
+  "updated_at": "2026-09-22T10:00:44+00:00",
   "playlist_count": 539,
   "playlists": [
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260919",
+      "modified_date": "20260922",
       "view_count": 89,
-      "video_count": 4,
+      "video_count": 5,
       "videos": [
         {
           "id": "ut87SZZLyTU",
           "title": "Sips playing wardogs for the first time!",
           "duration": 21250,
-          "view_count": 26000,
+          "view_count": 27000,
           "upload_date": "20260912"
         },
         {
@@ -31,15 +31,22 @@
           "id": "b85vbyvq0o4",
           "title": "Refusing to use guns just works in Wardogs!",
           "duration": 28990,
-          "view_count": 22000,
+          "view_count": 23000,
           "upload_date": "20260916"
         },
         {
           "id": "nSogCZt3Z7g",
           "title": "Stuck in YogTowers Playing Wardogs!",
           "duration": 7357,
-          "view_count": 10000,
+          "view_count": 11000,
           "upload_date": "20260919"
+        },
+        {
+          "id": "puMiuhTbyqE",
+          "title": "Using Stingrays in WARDOGS to destroy EVERYTHING!",
+          "duration": 23038,
+          "view_count": 14000,
+          "upload_date": "20260921"
         }
       ]
     },
@@ -107,7 +114,7 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 27000,
-          "upload_date": "20260907"
+          "upload_date": "20260908"
         },
         {
           "id": "TWG97iO1-js",
@@ -123,7 +130,7 @@
       "title": "Project P.I.T.T",
       "url": "https://www.youtube.com/playlist?list=PLMnqscVAV9V4",
       "modified_date": "20260904",
-      "view_count": 86,
+      "view_count": 93,
       "video_count": 2,
       "videos": [
         {
@@ -131,14 +138,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 13000,
-          "upload_date": "20260905"
+          "upload_date": "20260908"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
-          "view_count": 11000,
-          "upload_date": "20260905"
+          "view_count": 12000,
+          "upload_date": "20260908"
         }
       ]
     },
