@@ -2,16 +2,16 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-09-22T10:00:44+00:00",
+  "updated_at": "2026-09-23T10:02:33+00:00",
   "playlist_count": 539,
   "playlists": [
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260922",
-      "view_count": 89,
-      "video_count": 5,
+      "modified_date": "20260923",
+      "view_count": 159,
+      "video_count": 6,
       "videos": [
         {
           "id": "ut87SZZLyTU",
@@ -45,8 +45,15 @@
           "id": "puMiuhTbyqE",
           "title": "Using Stingrays in WARDOGS to destroy EVERYTHING!",
           "duration": 23038,
+          "view_count": 17000,
+          "upload_date": "20260922"
+        },
+        {
+          "id": "CQujPcKxpq0",
+          "title": "The Logistics and UAV Master is back in Wardogs! Checking out Deified! #ad",
+          "duration": 28550,
           "view_count": 14000,
-          "upload_date": "20260921"
+          "upload_date": "20260922"
         }
       ]
     },
@@ -55,7 +62,7 @@
       "title": "Wanderburg",
       "url": "https://www.youtube.com/playlist?list=PLU2yX0IduA1Y",
       "modified_date": "20260911",
-      "view_count": 31,
+      "view_count": 35,
       "video_count": 1,
       "videos": [
         {
@@ -72,7 +79,7 @@
       "title": "BioEden",
       "url": "https://www.youtube.com/playlist?list=PLHFrd44dVm5s",
       "modified_date": "20260910",
-      "view_count": 18,
+      "view_count": 19,
       "video_count": 1,
       "videos": [
         {
@@ -106,15 +113,15 @@
       "title": "Restory",
       "url": "https://www.youtube.com/playlist?list=PLbfTTuZlUJG4",
       "modified_date": "20260910",
-      "view_count": 98,
+      "view_count": 108,
       "video_count": 2,
       "videos": [
         {
           "id": "fNvDJ_33Duo",
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
-          "view_count": 27000,
-          "upload_date": "20260908"
+          "view_count": 28000,
+          "upload_date": "20260909"
         },
         {
           "id": "TWG97iO1-js",
@@ -130,7 +137,7 @@
       "title": "Project P.I.T.T",
       "url": "https://www.youtube.com/playlist?list=PLMnqscVAV9V4",
       "modified_date": "20260904",
-      "view_count": 93,
+      "view_count": 96,
       "video_count": 2,
       "videos": [
         {
@@ -138,14 +145,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 13000,
-          "upload_date": "20260908"
+          "upload_date": "20260909"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
           "view_count": 12000,
-          "upload_date": "20260908"
+          "upload_date": "20260909"
         }
       ]
     },
