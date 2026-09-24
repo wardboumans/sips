@@ -2,16 +2,16 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-09-23T10:02:33+00:00",
-  "playlist_count": 539,
+  "updated_at": "2026-09-24T10:04:50+00:00",
+  "playlist_count": 535,
   "playlists": [
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260923",
+      "modified_date": "20260924",
       "view_count": 159,
-      "video_count": 6,
+      "video_count": 7,
       "videos": [
         {
           "id": "ut87SZZLyTU",
@@ -24,7 +24,7 @@
           "id": "5ZFfqEfG2CE",
           "title": "Mr Mortar is back in action! - Wardogs!",
           "duration": 23913,
-          "view_count": 22000,
+          "view_count": 23000,
           "upload_date": "20260915"
         },
         {
@@ -52,8 +52,15 @@
           "id": "CQujPcKxpq0",
           "title": "The Logistics and UAV Master is back in Wardogs! Checking out Deified! #ad",
           "duration": 28550,
-          "view_count": 14000,
-          "upload_date": "20260922"
+          "view_count": 16000,
+          "upload_date": "20260923"
+        },
+        {
+          "id": "gHNrtFzo0g8",
+          "title": "Did I become a master helicopter pilot in Wardogs?! Checking out Rivage! #ad",
+          "duration": 29806,
+          "view_count": 15000,
+          "upload_date": "20260923"
         }
       ]
     },
@@ -121,13 +128,13 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 28000,
-          "upload_date": "20260909"
+          "upload_date": "20260910"
         },
         {
           "id": "TWG97iO1-js",
           "title": "Starting a Yakuza Conspiracy in Restory: Chill Electronics Repairs!",
           "duration": 10111,
-          "view_count": 10000,
+          "view_count": 11000,
           "upload_date": "20260911"
         }
       ]
@@ -145,14 +152,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 13000,
-          "upload_date": "20260909"
+          "upload_date": "20260910"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
           "view_count": 12000,
-          "upload_date": "20260909"
+          "upload_date": "20260910"
         }
       ]
     },
@@ -615,81 +622,6 @@
           "duration": 15728,
           "view_count": 19000,
           "upload_date": "20260719"
-        }
-      ]
-    },
-    {
-      "id": "PLXzrtjwZpPL4",
-      "title": "Inscryption",
-      "url": "https://www.youtube.com/playlist?list=PLXzrtjwZpPL4",
-      "modified_date": "20260709",
-      "view_count": 54,
-      "video_count": 1,
-      "videos": [
-        {
-          "id": "g_GObNBxWaM",
-          "title": "Ok fine, I'll check out Inscryption finally!",
-          "duration": 5384,
-          "view_count": 13000,
-          "upload_date": "20260721"
-        }
-      ]
-    },
-    {
-      "id": "PLb-AJCn1d_9U",
-      "title": "Mars Attracts",
-      "url": "https://www.youtube.com/playlist?list=PLb-AJCn1d_9U",
-      "modified_date": "20260709",
-      "view_count": 49,
-      "video_count": 1,
-      "videos": [
-        {
-          "id": "ZlHgUOMlZfI",
-          "title": "Checking out Mars Attracts!",
-          "duration": 4270,
-          "view_count": 8700,
-          "upload_date": "20260721"
-        }
-      ]
-    },
-    {
-      "id": "PLIZJD8bKKh8I",
-      "title": "Cheap Car Repair",
-      "url": "https://www.youtube.com/playlist?list=PLIZJD8bKKh8I",
-      "modified_date": "20260709",
-      "view_count": 154,
-      "video_count": 2,
-      "videos": [
-        {
-          "id": "7c1XUEI4XXQ",
-          "title": "Cheap Car Repair Is Certainly a Game!",
-          "duration": 6547,
-          "view_count": 8100,
-          "upload_date": "20260721"
-        },
-        {
-          "id": "4bm2W2mabvg",
-          "title": "Alaska Gold Fever has Sips Questioning Things",
-          "duration": 5857,
-          "view_count": 13000,
-          "upload_date": "20260721"
-        }
-      ]
-    },
-    {
-      "id": "PLFGQo10WJwx0",
-      "title": "Manor Lords",
-      "url": "https://www.youtube.com/playlist?list=PLFGQo10WJwx0",
-      "modified_date": "20260708",
-      "view_count": 132,
-      "video_count": 1,
-      "videos": [
-        {
-          "id": "hnZaN-xMNPw",
-          "title": "Sips checks out Manor Lords!",
-          "duration": 21376,
-          "view_count": 24000,
-          "upload_date": "20260721"
         }
       ]
     },
