@@ -2,16 +2,16 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-09-24T10:04:50+00:00",
-  "playlist_count": 535,
+  "updated_at": "2026-09-25T10:19:37+00:00",
+  "playlist_count": 539,
   "playlists": [
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260924",
-      "view_count": 159,
-      "video_count": 7,
+      "modified_date": "20260925",
+      "view_count": 186,
+      "video_count": 8,
       "videos": [
         {
           "id": "ut87SZZLyTU",
@@ -45,22 +45,29 @@
           "id": "puMiuhTbyqE",
           "title": "Using Stingrays in WARDOGS to destroy EVERYTHING!",
           "duration": 23038,
-          "view_count": 17000,
+          "view_count": 18000,
           "upload_date": "20260922"
         },
         {
           "id": "CQujPcKxpq0",
           "title": "The Logistics and UAV Master is back in Wardogs! Checking out Deified! #ad",
           "duration": 28550,
-          "view_count": 16000,
+          "view_count": 17000,
           "upload_date": "20260923"
         },
         {
           "id": "gHNrtFzo0g8",
           "title": "Did I become a master helicopter pilot in Wardogs?! Checking out Rivage! #ad",
           "duration": 29806,
+          "view_count": 18000,
+          "upload_date": "20260924"
+        },
+        {
+          "id": "jv_NmRUZfHk",
+          "title": "The pacifist is back in Wardogs and has Anti-Tank Weapons!",
+          "duration": 29441,
           "view_count": 15000,
-          "upload_date": "20260923"
+          "upload_date": "20260924"
         }
       ]
     },
@@ -69,14 +76,14 @@
       "title": "Wanderburg",
       "url": "https://www.youtube.com/playlist?list=PLU2yX0IduA1Y",
       "modified_date": "20260911",
-      "view_count": 35,
+      "view_count": 38,
       "video_count": 1,
       "videos": [
         {
           "id": "c8Jvs6Zw1VI",
           "title": "Sips checks out Wanderburg!",
           "duration": 21359,
-          "view_count": 29000,
+          "view_count": 30000,
           "upload_date": "20260911"
         }
       ]
@@ -86,7 +93,7 @@
       "title": "BioEden",
       "url": "https://www.youtube.com/playlist?list=PLHFrd44dVm5s",
       "modified_date": "20260910",
-      "view_count": 19,
+      "view_count": 21,
       "video_count": 1,
       "videos": [
         {
@@ -103,7 +110,7 @@
       "title": "Sir, We Have An Orc Problem",
       "url": "https://www.youtube.com/playlist?list=PLSpM1XnJzZUA",
       "modified_date": "20260910",
-      "view_count": 28,
+      "view_count": 30,
       "video_count": 1,
       "videos": [
         {
@@ -120,7 +127,7 @@
       "title": "Restory",
       "url": "https://www.youtube.com/playlist?list=PLbfTTuZlUJG4",
       "modified_date": "20260910",
-      "view_count": 108,
+      "view_count": 112,
       "video_count": 2,
       "videos": [
         {
@@ -128,7 +135,7 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 28000,
-          "upload_date": "20260910"
+          "upload_date": "20260911"
         },
         {
           "id": "TWG97iO1-js",
@@ -144,7 +151,7 @@
       "title": "Project P.I.T.T",
       "url": "https://www.youtube.com/playlist?list=PLMnqscVAV9V4",
       "modified_date": "20260904",
-      "view_count": 96,
+      "view_count": 99,
       "video_count": 2,
       "videos": [
         {
@@ -152,14 +159,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 13000,
-          "upload_date": "20260910"
+          "upload_date": "20260904"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
           "view_count": 12000,
-          "upload_date": "20260910"
+          "upload_date": "20260911"
         }
       ]
     },
@@ -626,11 +633,86 @@
       ]
     },
     {
+      "id": "PLXzrtjwZpPL4",
+      "title": "Inscryption",
+      "url": "https://www.youtube.com/playlist?list=PLXzrtjwZpPL4",
+      "modified_date": "20260709",
+      "view_count": 56,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "g_GObNBxWaM",
+          "title": "Ok fine, I'll check out Inscryption finally!",
+          "duration": 5384,
+          "view_count": 13000,
+          "upload_date": "20260725"
+        }
+      ]
+    },
+    {
+      "id": "PLb-AJCn1d_9U",
+      "title": "Mars Attracts",
+      "url": "https://www.youtube.com/playlist?list=PLb-AJCn1d_9U",
+      "modified_date": "20260709",
+      "view_count": 53,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "ZlHgUOMlZfI",
+          "title": "Checking out Mars Attracts!",
+          "duration": 4270,
+          "view_count": 8700,
+          "upload_date": "20260725"
+        }
+      ]
+    },
+    {
+      "id": "PLIZJD8bKKh8I",
+      "title": "Cheap Car Repair",
+      "url": "https://www.youtube.com/playlist?list=PLIZJD8bKKh8I",
+      "modified_date": "20260709",
+      "view_count": 166,
+      "video_count": 2,
+      "videos": [
+        {
+          "id": "7c1XUEI4XXQ",
+          "title": "Cheap Car Repair Is Certainly a Game!",
+          "duration": 6547,
+          "view_count": 8200,
+          "upload_date": "20260725"
+        },
+        {
+          "id": "4bm2W2mabvg",
+          "title": "Alaska Gold Fever has Sips Questioning Things",
+          "duration": 5857,
+          "view_count": 13000,
+          "upload_date": "20260725"
+        }
+      ]
+    },
+    {
+      "id": "PLFGQo10WJwx0",
+      "title": "Manor Lords",
+      "url": "https://www.youtube.com/playlist?list=PLFGQo10WJwx0",
+      "modified_date": "20260708",
+      "view_count": 136,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "hnZaN-xMNPw",
+          "title": "Sips checks out Manor Lords!",
+          "duration": 21376,
+          "view_count": 24000,
+          "upload_date": "20260725"
+        }
+      ]
+    },
+    {
       "id": "PLMi8JXzGuZRToe_18v7Bur0KSwSoJutQZ",
       "title": "MECCHA CHAMELEON",
       "url": "https://www.youtube.com/playlist?list=PLMi8JXzGuZRToe_18v7Bur0KSwSoJutQZ",
       "modified_date": "20260729",
-      "view_count": 686,
+      "view_count": 763,
       "video_count": 7,
       "videos": [
         {
@@ -638,49 +720,49 @@
           "title": "Showing the other Yogs how art is done | MECCHA CHAMELEON",
           "duration": 8730,
           "view_count": 41000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         },
         {
           "id": "jpzZPzr_P9E",
           "title": "Low Artistic Talent, Bad at Hiding, Big on Confidence in Meccha Chameleon!",
           "duration": 11205,
           "view_count": 14000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "exvblzkGmyg",
           "title": "Six Hours of Meccha Chameleon with Buddies!",
           "duration": 23808,
           "view_count": 19000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "xI-U45F2xX4",
           "title": "Meccha Chameleon Lobbies! Checking out Gamble With Your Friends with Hatfilms!",
           "duration": 25963,
           "view_count": 13000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "1kDwDFB4BQE",
           "title": "The Meccha Chameleon Master Is Back! And yes, MORE Palworld!",
           "duration": 23571,
           "view_count": 14000,
-          "upload_date": "20260821"
+          "upload_date": "20260725"
         },
         {
           "id": "cC9gFwoeKCc",
           "title": "Big Meccha Chameleon Lobbies! Big Fun!",
           "duration": 13333,
           "view_count": 6000,
-          "upload_date": "20260821"
+          "upload_date": "20260825"
         },
         {
           "id": "D8lhBNQs104",
           "title": "Mr Indecisive is back in Meccha Chameleon!",
           "duration": 7570,
           "view_count": 5900,
-          "upload_date": "20260821"
+          "upload_date": "20260825"
         }
       ]
     },
@@ -689,7 +771,7 @@
       "title": "Cities Skylines 2 - Welcome to Chorley",
       "url": "https://www.youtube.com/playlist?list=PLMi8JXzGuZRT1FI-DgF6IYOFwd4bUINEb",
       "modified_date": "20260623",
-      "view_count": 1581,
+      "view_count": 1600,
       "video_count": 2,
       "videos": [
         {
@@ -697,14 +779,14 @@
           "title": "Sips welcomes you to Chorley! It's mostly safe and clean!",
           "duration": 12092,
           "view_count": 22000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         },
         {
           "id": "2kx34U5xLoQ",
           "title": "Look at this BEAUTIFUL new development in Chorley! | Cities Skylines 2",
           "duration": 26003,
           "view_count": 10000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         }
       ]
     },
@@ -713,7 +795,7 @@
       "title": "Cities Skylines 2 (2026 Playthrough)",
       "url": "https://www.youtube.com/playlist?list=PLMi8JXzGuZRQziiCjJjbKqujVuJNj-ZRX",
       "modified_date": "20260703",
-      "view_count": 3405,
+      "view_count": 3567,
       "video_count": 9,
       "videos": [
         {
@@ -721,63 +803,63 @@
           "title": "Oxygen Not Included! Checking out Meccha Chameleon! And Cities Skylines 2!",
           "duration": 28246,
           "view_count": 18000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         },
         {
           "id": "xwqzoNsI5Eo",
           "title": "Sips is back in Cities Skylines 2 as long as it doesn't crash",
           "duration": 27324,
           "view_count": 23000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         },
         {
           "id": "U3goSQNdo9E",
           "title": "Now that's what I call a small city | Cities Skylines 2",
           "duration": 29227,
           "view_count": 20000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         },
         {
           "id": "JEJGmH_Cx9g",
           "title": "The Sporting Goods Store keeps this town afloat | Cities Skylines 2",
           "duration": 24966,
           "view_count": 16000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "PGK5bD2R4tw",
           "title": "Chorley is now a HUGE City! - Cities Skylines 2",
           "duration": 24229,
           "view_count": 14000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "OYHx19L3PLM",
           "title": "There's Not a Single Pizza Hut in Chorley - Cities Skylines 2",
           "duration": 28908,
           "view_count": 14000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "NxWyZam_IHU",
           "title": "Meccha Chameleon! Planet Coaster 2! And a bit of Cities Skylines 2!",
           "duration": 23825,
           "view_count": 11000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         },
         {
           "id": "YMp-DJKNHks",
           "title": "The Giant Towering Building of Chorley - Cities Skylines 2!",
           "duration": 25983,
-          "view_count": 11000,
-          "upload_date": "20260721"
+          "view_count": 12000,
+          "upload_date": "20260725"
         },
         {
           "id": "rJIQ4rl9Dsw",
           "title": "Mass Transit arrives in Chorley! - Cities Skylines 2!",
           "duration": 23806,
           "view_count": 11000,
-          "upload_date": "20260721"
+          "upload_date": "20260725"
         }
       ]
     },
@@ -786,7 +868,7 @@
       "title": "Full Playthroughs",
       "url": "https://www.youtube.com/playlist?list=PLMi8JXzGuZRS6DpBj4j8VN64b5a_guLd-",
       "modified_date": "20260624",
-      "view_count": 455,
+      "view_count": 473,
       "video_count": 3,
       "videos": [
         {
@@ -794,21 +876,21 @@
           "title": "Sips Plays Subnautica 2 Early Access (Full Playthrough)",
           "duration": 43189,
           "view_count": 14000,
-          "upload_date": "20260621"
+          "upload_date": "20260625"
         },
         {
           "id": "11ZVGh5pOPA",
           "title": "Ex-Blockbuster Employee's Complete Playthrough RETRO REWIND!",
           "duration": 34715,
-          "view_count": 25000,
-          "upload_date": "20260721"
+          "view_count": 26000,
+          "upload_date": "20260625"
         },
         {
           "id": "N6G7qUCh5HE",
           "title": "4 Hours + 3,072 Books + One Dad = Fun? | Librarian: Tidy Up the Arcane Library! (Full Game)",
           "duration": 16330,
           "view_count": 19000,
-          "upload_date": "20260721"
+          "upload_date": "20260625"
         }
       ]
     },
@@ -817,7 +899,7 @@
       "title": "No Man's Sky: The Swarm",
       "url": "https://www.youtube.com/playlist?list=PLMi8JXzGuZRQ3i7DEr1lfm0nYpjZS4NVz",
       "modified_date": "20260528",
-      "view_count": 110,
+      "view_count": 111,
       "video_count": 1,
       "videos": [
         {
@@ -825,7 +907,7 @@
           "title": "We're So Back with Oxygen Not Included & Checking out No Man's Sky THE SWARM! #AD",
           "duration": 23429,
           "view_count": 15000,
-          "upload_date": "20260621"
+          "upload_date": "20260625"
         }
       ]
     },
