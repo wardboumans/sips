@@ -2,22 +2,22 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-09-25T10:19:37+00:00",
-  "playlist_count": 539,
+  "updated_at": "2026-09-26T09:54:36+00:00",
+  "playlist_count": 535,
   "playlists": [
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260925",
-      "view_count": 186,
-      "video_count": 8,
+      "modified_date": "20260926",
+      "view_count": 219,
+      "video_count": 9,
       "videos": [
         {
           "id": "ut87SZZLyTU",
           "title": "Sips playing wardogs for the first time!",
           "duration": 21250,
-          "view_count": 27000,
+          "view_count": 28000,
           "upload_date": "20260912"
         },
         {
@@ -31,7 +31,7 @@
           "id": "b85vbyvq0o4",
           "title": "Refusing to use guns just works in Wardogs!",
           "duration": 28990,
-          "view_count": 23000,
+          "view_count": 24000,
           "upload_date": "20260916"
         },
         {
@@ -52,7 +52,7 @@
           "id": "CQujPcKxpq0",
           "title": "The Logistics and UAV Master is back in Wardogs! Checking out Deified! #ad",
           "duration": 28550,
-          "view_count": 17000,
+          "view_count": 18000,
           "upload_date": "20260923"
         },
         {
@@ -66,8 +66,15 @@
           "id": "jv_NmRUZfHk",
           "title": "The pacifist is back in Wardogs and has Anti-Tank Weapons!",
           "duration": 29441,
-          "view_count": 15000,
-          "upload_date": "20260924"
+          "view_count": 17000,
+          "upload_date": "20260925"
+        },
+        {
+          "id": "bipzzSEDItA",
+          "title": "Checking out Graveyard Keeper 2 & More Logistics in Wardogs!",
+          "duration": 23122,
+          "view_count": 17000,
+          "upload_date": "20260925"
         }
       ]
     },
@@ -76,7 +83,7 @@
       "title": "Wanderburg",
       "url": "https://www.youtube.com/playlist?list=PLU2yX0IduA1Y",
       "modified_date": "20260911",
-      "view_count": 38,
+      "view_count": 41,
       "video_count": 1,
       "videos": [
         {
@@ -84,7 +91,7 @@
           "title": "Sips checks out Wanderburg!",
           "duration": 21359,
           "view_count": 30000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -93,7 +100,7 @@
       "title": "BioEden",
       "url": "https://www.youtube.com/playlist?list=PLHFrd44dVm5s",
       "modified_date": "20260910",
-      "view_count": 21,
+      "view_count": 23,
       "video_count": 1,
       "videos": [
         {
@@ -101,7 +108,7 @@
           "title": "We Made Frogs Poop Clean Water (BioEden) #ad",
           "duration": 8220,
           "view_count": 10000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -110,7 +117,7 @@
       "title": "Sir, We Have An Orc Problem",
       "url": "https://www.youtube.com/playlist?list=PLSpM1XnJzZUA",
       "modified_date": "20260910",
-      "view_count": 30,
+      "view_count": 31,
       "video_count": 1,
       "videos": [
         {
@@ -118,7 +125,7 @@
           "title": "Addictive Tower Defense Game? Sign me up! - Sir, We Have An Orc Problem",
           "duration": 6211,
           "view_count": 27000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -127,7 +134,7 @@
       "title": "Restory",
       "url": "https://www.youtube.com/playlist?list=PLbfTTuZlUJG4",
       "modified_date": "20260910",
-      "view_count": 112,
+      "view_count": 114,
       "video_count": 2,
       "videos": [
         {
@@ -135,14 +142,14 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 28000,
-          "upload_date": "20260911"
+          "upload_date": "20260905"
         },
         {
           "id": "TWG97iO1-js",
           "title": "Starting a Yakuza Conspiracy in Restory: Chill Electronics Repairs!",
           "duration": 10111,
           "view_count": 11000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -151,7 +158,7 @@
       "title": "Project P.I.T.T",
       "url": "https://www.youtube.com/playlist?list=PLMnqscVAV9V4",
       "modified_date": "20260904",
-      "view_count": 99,
+      "view_count": 101,
       "video_count": 2,
       "videos": [
         {
@@ -159,14 +166,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 13000,
-          "upload_date": "20260904"
+          "upload_date": "20260905"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
           "view_count": 12000,
-          "upload_date": "20260911"
+          "upload_date": "20260905"
         }
       ]
     },
@@ -629,81 +636,6 @@
           "duration": 15728,
           "view_count": 19000,
           "upload_date": "20260719"
-        }
-      ]
-    },
-    {
-      "id": "PLXzrtjwZpPL4",
-      "title": "Inscryption",
-      "url": "https://www.youtube.com/playlist?list=PLXzrtjwZpPL4",
-      "modified_date": "20260709",
-      "view_count": 56,
-      "video_count": 1,
-      "videos": [
-        {
-          "id": "g_GObNBxWaM",
-          "title": "Ok fine, I'll check out Inscryption finally!",
-          "duration": 5384,
-          "view_count": 13000,
-          "upload_date": "20260725"
-        }
-      ]
-    },
-    {
-      "id": "PLb-AJCn1d_9U",
-      "title": "Mars Attracts",
-      "url": "https://www.youtube.com/playlist?list=PLb-AJCn1d_9U",
-      "modified_date": "20260709",
-      "view_count": 53,
-      "video_count": 1,
-      "videos": [
-        {
-          "id": "ZlHgUOMlZfI",
-          "title": "Checking out Mars Attracts!",
-          "duration": 4270,
-          "view_count": 8700,
-          "upload_date": "20260725"
-        }
-      ]
-    },
-    {
-      "id": "PLIZJD8bKKh8I",
-      "title": "Cheap Car Repair",
-      "url": "https://www.youtube.com/playlist?list=PLIZJD8bKKh8I",
-      "modified_date": "20260709",
-      "view_count": 166,
-      "video_count": 2,
-      "videos": [
-        {
-          "id": "7c1XUEI4XXQ",
-          "title": "Cheap Car Repair Is Certainly a Game!",
-          "duration": 6547,
-          "view_count": 8200,
-          "upload_date": "20260725"
-        },
-        {
-          "id": "4bm2W2mabvg",
-          "title": "Alaska Gold Fever has Sips Questioning Things",
-          "duration": 5857,
-          "view_count": 13000,
-          "upload_date": "20260725"
-        }
-      ]
-    },
-    {
-      "id": "PLFGQo10WJwx0",
-      "title": "Manor Lords",
-      "url": "https://www.youtube.com/playlist?list=PLFGQo10WJwx0",
-      "modified_date": "20260708",
-      "view_count": 136,
-      "video_count": 1,
-      "videos": [
-        {
-          "id": "hnZaN-xMNPw",
-          "title": "Sips checks out Manor Lords!",
-          "duration": 21376,
-          "view_count": 24000,
-          "upload_date": "20260725"
         }
       ]
     },
