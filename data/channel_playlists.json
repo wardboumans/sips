@@ -2,30 +2,30 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-09-29T11:25:05+00:00",
+  "updated_at": "2026-09-30T11:12:57+00:00",
   "playlist_count": 535,
   "playlists": [
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260929",
-      "view_count": 405,
-      "video_count": 10,
+      "modified_date": "20260930",
+      "view_count": 464,
+      "video_count": 11,
       "videos": [
         {
           "id": "ut87SZZLyTU",
           "title": "Sips playing wardogs for the first time!",
           "duration": 21250,
-          "view_count": 28000,
-          "upload_date": "20260915"
+          "view_count": 29000,
+          "upload_date": "20260916"
         },
         {
           "id": "5ZFfqEfG2CE",
           "title": "Mr Mortar is back in action! - Wardogs!",
           "duration": 23913,
           "view_count": 24000,
-          "upload_date": "20260915"
+          "upload_date": "20260916"
         },
         {
           "id": "b85vbyvq0o4",
@@ -73,15 +73,22 @@
           "id": "bipzzSEDItA",
           "title": "Checking out Graveyard Keeper 2 & More Logistics in Wardogs!",
           "duration": 23122,
-          "view_count": 24000,
+          "view_count": 25000,
           "upload_date": "20260926"
         },
         {
           "id": "OOoyy32D8Rc",
-          "title": "Sips joins Rust Isles & getting called a Hacker in WARZONE!",
+          "title": "Sips joins Rust Isles & getting called a Hacker in WARDOGS!",
           "duration": 23934,
-          "view_count": 15000,
-          "upload_date": "20260928"
+          "view_count": 17000,
+          "upload_date": "20260929"
+        },
+        {
+          "id": "-1x5MYYQQFY",
+          "title": "Back in Graveyard Keeper 2! More Wardoggin' logistics and UAV Stingers!",
+          "duration": 31757,
+          "view_count": 17000,
+          "upload_date": "20260929"
         }
       ]
     },
@@ -90,7 +97,7 @@
       "title": "Wanderburg",
       "url": "https://www.youtube.com/playlist?list=PLU2yX0IduA1Y",
       "modified_date": "20260911",
-      "view_count": 48,
+      "view_count": 49,
       "video_count": 1,
       "videos": [
         {
@@ -98,7 +105,7 @@
           "title": "Sips checks out Wanderburg!",
           "duration": 21359,
           "view_count": 30000,
-          "upload_date": "20260915"
+          "upload_date": "20260916"
         }
       ]
     },
@@ -107,7 +114,7 @@
       "title": "BioEden",
       "url": "https://www.youtube.com/playlist?list=PLHFrd44dVm5s",
       "modified_date": "20260910",
-      "view_count": 28,
+      "view_count": 30,
       "video_count": 1,
       "videos": [
         {
@@ -115,7 +122,7 @@
           "title": "We Made Frogs Poop Clean Water (BioEden) #ad",
           "duration": 8220,
           "view_count": 11000,
-          "upload_date": "20260915"
+          "upload_date": "20260916"
         }
       ]
     },
@@ -124,7 +131,7 @@
       "title": "Sir, We Have An Orc Problem",
       "url": "https://www.youtube.com/playlist?list=PLSpM1XnJzZUA",
       "modified_date": "20260910",
-      "view_count": 34,
+      "view_count": 36,
       "video_count": 1,
       "videos": [
         {
@@ -132,7 +139,7 @@
           "title": "Addictive Tower Defense Game? Sign me up! - Sir, We Have An Orc Problem",
           "duration": 6211,
           "view_count": 28000,
-          "upload_date": "20260915"
+          "upload_date": "20260916"
         }
       ]
     },
@@ -149,14 +156,14 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 28000,
-          "upload_date": "20260908"
+          "upload_date": "20260909"
         },
         {
           "id": "TWG97iO1-js",
           "title": "Starting a Yakuza Conspiracy in Restory: Chill Electronics Repairs!",
           "duration": 10111,
           "view_count": 11000,
-          "upload_date": "20260915"
+          "upload_date": "20260916"
         }
       ]
     },
@@ -165,7 +172,7 @@
       "title": "Project P.I.T.T",
       "url": "https://www.youtube.com/playlist?list=PLMnqscVAV9V4",
       "modified_date": "20260904",
-      "view_count": 115,
+      "view_count": 118,
       "video_count": 2,
       "videos": [
         {
@@ -173,14 +180,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 14000,
-          "upload_date": "20260908"
+          "upload_date": "20260909"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
           "view_count": 12000,
-          "upload_date": "20260908"
+          "upload_date": "20260909"
         }
       ]
     },
