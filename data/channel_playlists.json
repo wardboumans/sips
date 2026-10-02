@@ -2,9 +2,26 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-01T11:39:58+00:00",
-  "playlist_count": 535,
+  "updated_at": "2026-10-02T11:09:34+00:00",
+  "playlist_count": 536,
   "playlists": [
+    {
+      "id": "PLOQIclPSfdiY",
+      "title": "Graveyard Keeper 2",
+      "url": "https://www.youtube.com/playlist?list=PLOQIclPSfdiY",
+      "modified_date": "20261002",
+      "view_count": 0,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "o1j7qHulVJ4",
+          "title": "Sips plays Graveyard Keeper 2!",
+          "duration": 17643,
+          "view_count": 8200,
+          "upload_date": "20261001"
+        }
+      ]
+    },
     {
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
@@ -18,21 +35,21 @@
           "title": "Sips playing wardogs for the first time!",
           "duration": 21250,
           "view_count": 29000,
-          "upload_date": "20260917"
+          "upload_date": "20260918"
         },
         {
           "id": "5ZFfqEfG2CE",
           "title": "Mr Mortar is back in action! - Wardogs!",
           "duration": 23913,
           "view_count": 24000,
-          "upload_date": "20260917"
+          "upload_date": "20260918"
         },
         {
           "id": "b85vbyvq0o4",
           "title": "Refusing to use guns just works in Wardogs!",
           "duration": 28990,
           "view_count": 24000,
-          "upload_date": "20260917"
+          "upload_date": "20260918"
         },
         {
           "id": "nSogCZt3Z7g",
@@ -66,7 +83,7 @@
           "id": "jv_NmRUZfHk",
           "title": "The pacifist is back in Wardogs and has Anti-Tank Weapons!",
           "duration": 29441,
-          "view_count": 19000,
+          "view_count": 20000,
           "upload_date": "20260925"
         },
         {
@@ -87,7 +104,7 @@
           "id": "-1x5MYYQQFY",
           "title": "Back in Graveyard Keeper 2! More Wardoggin' logistics and UAV Stingers!",
           "duration": 31757,
-          "view_count": 19000,
+          "view_count": 20000,
           "upload_date": "20260930"
         }
       ]
@@ -105,7 +122,7 @@
           "title": "Sips checks out Wanderburg!",
           "duration": 21359,
           "view_count": 30000,
-          "upload_date": "20260917"
+          "upload_date": "20260911"
         }
       ]
     },
@@ -122,7 +139,7 @@
           "title": "We Made Frogs Poop Clean Water (BioEden) #ad",
           "duration": 8220,
           "view_count": 11000,
-          "upload_date": "20260917"
+          "upload_date": "20260911"
         }
       ]
     },
@@ -139,7 +156,7 @@
           "title": "Addictive Tower Defense Game? Sign me up! - Sir, We Have An Orc Problem",
           "duration": 6211,
           "view_count": 28000,
-          "upload_date": "20260917"
+          "upload_date": "20260911"
         }
       ]
     },
@@ -156,14 +173,14 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 28000,
-          "upload_date": "20260910"
+          "upload_date": "20260911"
         },
         {
           "id": "TWG97iO1-js",
           "title": "Starting a Yakuza Conspiracy in Restory: Chill Electronics Repairs!",
           "duration": 10111,
           "view_count": 11000,
-          "upload_date": "20260917"
+          "upload_date": "20260911"
         }
       ]
     },
