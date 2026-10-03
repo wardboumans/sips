@@ -2,7 +2,7 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-02T11:09:34+00:00",
+  "updated_at": "2026-10-03T10:27:58+00:00",
   "playlist_count": 536,
   "playlists": [
     {
@@ -17,8 +17,8 @@
           "id": "o1j7qHulVJ4",
           "title": "Sips plays Graveyard Keeper 2!",
           "duration": 17643,
-          "view_count": 8200,
-          "upload_date": "20261001"
+          "view_count": 13000,
+          "upload_date": "20261002"
         }
       ]
     },
@@ -26,30 +26,30 @@
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20260930",
+      "modified_date": "20261003",
       "view_count": 464,
-      "video_count": 11,
+      "video_count": 12,
       "videos": [
         {
           "id": "ut87SZZLyTU",
           "title": "Sips playing wardogs for the first time!",
           "duration": 21250,
           "view_count": 29000,
-          "upload_date": "20260918"
+          "upload_date": "20260912"
         },
         {
           "id": "5ZFfqEfG2CE",
           "title": "Mr Mortar is back in action! - Wardogs!",
           "duration": 23913,
           "view_count": 24000,
-          "upload_date": "20260918"
+          "upload_date": "20260919"
         },
         {
           "id": "b85vbyvq0o4",
           "title": "Refusing to use guns just works in Wardogs!",
           "duration": 28990,
           "view_count": 24000,
-          "upload_date": "20260918"
+          "upload_date": "20260919"
         },
         {
           "id": "nSogCZt3Z7g",
@@ -90,22 +90,29 @@
           "id": "bipzzSEDItA",
           "title": "Checking out Graveyard Keeper 2 & More Logistics in Wardogs!",
           "duration": 23122,
-          "view_count": 25000,
+          "view_count": 26000,
           "upload_date": "20260926"
         },
         {
           "id": "OOoyy32D8Rc",
           "title": "Sips joins Rust Isles & getting called a Hacker in WARDOGS!",
           "duration": 23934,
-          "view_count": 17000,
+          "view_count": 18000,
           "upload_date": "20260929"
         },
         {
           "id": "-1x5MYYQQFY",
           "title": "Back in Graveyard Keeper 2! More Wardoggin' logistics and UAV Stingers!",
           "duration": 31757,
-          "view_count": 20000,
+          "view_count": 21000,
           "upload_date": "20260930"
+        },
+        {
+          "id": "02NDU3b1rjM",
+          "title": "More Graveyard Keeper 2 and ALMOST Uninstalling Wardogs!",
+          "duration": 24169,
+          "view_count": 12000,
+          "upload_date": "20261002"
         }
       ]
     },
@@ -122,7 +129,7 @@
           "title": "Sips checks out Wanderburg!",
           "duration": 21359,
           "view_count": 30000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -139,7 +146,7 @@
           "title": "We Made Frogs Poop Clean Water (BioEden) #ad",
           "duration": 8220,
           "view_count": 11000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -156,7 +163,7 @@
           "title": "Addictive Tower Defense Game? Sign me up! - Sir, We Have An Orc Problem",
           "duration": 6211,
           "view_count": 28000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -173,14 +180,14 @@
           "title": "Self-Proclaimed Repair Expert plays Restory: Chill Electronics Repairs!",
           "duration": 5662,
           "view_count": 28000,
-          "upload_date": "20260911"
+          "upload_date": "20260905"
         },
         {
           "id": "TWG97iO1-js",
           "title": "Starting a Yakuza Conspiracy in Restory: Chill Electronics Repairs!",
           "duration": 10111,
           "view_count": 11000,
-          "upload_date": "20260911"
+          "upload_date": "20260912"
         }
       ]
     },
@@ -197,14 +204,14 @@
           "title": "Checking out what these ducks are up to in Project P.I.T.T!",
           "duration": 12051,
           "view_count": 14000,
-          "upload_date": "20260909"
+          "upload_date": "20260905"
         },
         {
           "id": "dD7NJtTF_ug",
           "title": "Expertly crafted Duck Tunnel in Project P.I.T.T!",
           "duration": 17564,
           "view_count": 12000,
-          "upload_date": "20260909"
+          "upload_date": "20260905"
         }
       ]
     },
