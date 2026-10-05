@@ -2,23 +2,23 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-04T11:09:23+00:00",
+  "updated_at": "2026-10-05T12:19:53+00:00",
   "playlist_count": 536,
   "playlists": [
     {
       "id": "PLOQIclPSfdiY",
       "title": "Graveyard Keeper 2",
       "url": "https://www.youtube.com/playlist?list=PLOQIclPSfdiY",
-      "modified_date": "20261002",
-      "view_count": 0,
+      "modified_date": "20261003",
+      "view_count": 23,
       "video_count": 1,
       "videos": [
         {
           "id": "o1j7qHulVJ4",
           "title": "Sips plays Graveyard Keeper 2!",
           "duration": 17643,
-          "view_count": 17000,
-          "upload_date": "20261002"
+          "view_count": 20000,
+          "upload_date": "20261003"
         }
       ]
     },
@@ -26,8 +26,8 @@
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20261003",
-      "view_count": 464,
+      "modified_date": "20261004",
+      "view_count": 610,
       "video_count": 12,
       "videos": [
         {
@@ -35,84 +35,84 @@
           "title": "Sips playing wardogs for the first time!",
           "duration": 21250,
           "view_count": 29000,
-          "upload_date": "20260913"
+          "upload_date": "20260915"
         },
         {
           "id": "5ZFfqEfG2CE",
           "title": "Mr Mortar is back in action! - Wardogs!",
           "duration": 23913,
           "view_count": 24000,
-          "upload_date": "20260920"
+          "upload_date": "20260922"
         },
         {
           "id": "b85vbyvq0o4",
           "title": "Refusing to use guns just works in Wardogs!",
           "duration": 28990,
           "view_count": 25000,
-          "upload_date": "20260920"
+          "upload_date": "20260922"
         },
         {
           "id": "nSogCZt3Z7g",
           "title": "Stuck in YogTowers Playing Wardogs!",
           "duration": 7357,
           "view_count": 12000,
-          "upload_date": "20260920"
+          "upload_date": "20260922"
         },
         {
           "id": "puMiuhTbyqE",
           "title": "Using Stingrays in WARDOGS to destroy EVERYTHING!",
           "duration": 23038,
           "view_count": 19000,
-          "upload_date": "20260922"
+          "upload_date": "20260923"
         },
         {
           "id": "CQujPcKxpq0",
           "title": "The Logistics and UAV Master is back in Wardogs! Checking out Deified! #ad",
           "duration": 28550,
           "view_count": 19000,
-          "upload_date": "20260923"
+          "upload_date": "20260924"
         },
         {
           "id": "gHNrtFzo0g8",
           "title": "Did I become a master helicopter pilot in Wardogs?! Checking out Rivage! #ad",
           "duration": 29806,
           "view_count": 20000,
-          "upload_date": "20260924"
+          "upload_date": "20260925"
         },
         {
           "id": "jv_NmRUZfHk",
           "title": "The pacifist is back in Wardogs and has Anti-Tank Weapons!",
           "duration": 29441,
           "view_count": 20000,
-          "upload_date": "20260925"
+          "upload_date": "20260926"
         },
         {
           "id": "bipzzSEDItA",
           "title": "Checking out Graveyard Keeper 2 & More Logistics in Wardogs!",
           "duration": 23122,
           "view_count": 26000,
-          "upload_date": "20260926"
+          "upload_date": "20260927"
         },
         {
           "id": "OOoyy32D8Rc",
           "title": "Sips joins Rust Isles & getting called a Hacker in WARDOGS!",
           "duration": 23934,
           "view_count": 18000,
-          "upload_date": "20260929"
+          "upload_date": "20260930"
         },
         {
           "id": "-1x5MYYQQFY",
           "title": "Back in Graveyard Keeper 2! More Wardoggin' logistics and UAV Stingers!",
           "duration": 31757,
-          "view_count": 21000,
-          "upload_date": "20260930"
+          "view_count": 22000,
+          "upload_date": "20261001"
         },
         {
           "id": "02NDU3b1rjM",
           "title": "More Graveyard Keeper 2 and ALMOST Uninstalling Wardogs!",
           "duration": 24169,
-          "view_count": 16000,
-          "upload_date": "20261003"
+          "view_count": 17000,
+          "upload_date": "20261004"
         }
       ]
     },
@@ -121,15 +121,15 @@
       "title": "Wanderburg",
       "url": "https://www.youtube.com/playlist?list=PLU2yX0IduA1Y",
       "modified_date": "20260911",
-      "view_count": 49,
+      "view_count": 59,
       "video_count": 1,
       "videos": [
         {
           "id": "c8Jvs6Zw1VI",
           "title": "Sips checks out Wanderburg!",
           "duration": 21359,
-          "view_count": 30000,
-          "upload_date": "20260913"
+          "view_count": 31000,
+          "upload_date": "20260915"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "title": "BioEden",
       "url": "https://www.youtube.com/playlist?list=PLHFrd44dVm5s",
       "modified_date": "20260910",
-      "view_count": 30,
+      "view_count": 31,
       "video_count": 1,
       "videos": [
         {
@@ -146,7 +146,7 @@
           "title": "We Made Frogs Poop Clean Water (BioEden) #ad",
           "duration": 8220,
           "view_count": 11000,
-          "upload_date": "20260913"
+          "upload_date": "20260915"
         }
       ]
     },
@@ -155,7 +155,7 @@
       "title": "Sir, We Have An Orc Problem",
       "url": "https://www.youtube.com/playlist?list=PLSpM1XnJzZUA",
       "modified_date": "20260910",
-      "view_count": 36,
+      "view_count": 40,
       "video_count": 1,
       "videos": [
         {
@@ -163,7 +163,7 @@
           "title": "Addictive Tower Defense Game? Sign me up! - Sir, We Have An Orc Problem",
           "duration": 6211,
           "view_count": 28000,
-          "upload_date": "20260913"
+          "upload_date": "20260915"
         }
       ]
     },
