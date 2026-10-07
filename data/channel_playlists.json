@@ -2,23 +2,64 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-06T12:04:40+00:00",
-  "playlist_count": 537,
+  "updated_at": "2026-10-07T11:50:41+00:00",
+  "playlist_count": 539,
   "playlists": [
+    {
+      "id": "PLXVUNB6q7Thg",
+      "title": "Warhammer Survivors",
+      "url": "https://www.youtube.com/playlist?list=PLXVUNB6q7Thg",
+      "modified_date": "20261007",
+      "view_count": 0,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "pfwF88fSB0U",
+          "title": "Sips' First look at Warhammer Survivors! #ad",
+          "duration": 6148,
+          "view_count": 12000,
+          "upload_date": "20261007"
+        }
+      ]
+    },
+    {
+      "id": "PLcX8Q1X13r6M",
+      "title": "Dressmaker",
+      "url": "https://www.youtube.com/playlist?list=PLcX8Q1X13r6M",
+      "modified_date": "20261007",
+      "view_count": 0,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "3hTzHfuXn2Q",
+          "title": "Bet you didn't think Sips would play Dressmaker",
+          "duration": 7541,
+          "view_count": 6900,
+          "upload_date": "20261007"
+        }
+      ]
+    },
     {
       "id": "PLbEGhixP7xRQ",
       "title": "Bowling Alley Simulator",
       "url": "https://www.youtube.com/playlist?list=PLbEGhixP7xRQ",
-      "modified_date": "20261006",
+      "modified_date": "20261007",
       "view_count": 0,
-      "video_count": 1,
+      "video_count": 2,
       "videos": [
         {
           "id": "A9UJkpoIjg4",
           "title": "Sips checks out Bowling Alley Simulator!",
           "duration": 24105,
-          "view_count": 21000,
-          "upload_date": "20261005"
+          "view_count": 25000,
+          "upload_date": "20261006"
+        },
+        {
+          "id": "UTqJysqCe_k",
+          "title": "Running a tight ship in Bowling Alley Simulator",
+          "duration": 3983,
+          "view_count": 2600,
+          "upload_date": "20261007"
         }
       ]
     },
@@ -26,7 +67,7 @@
       "id": "PLOQIclPSfdiY",
       "title": "Graveyard Keeper 2",
       "url": "https://www.youtube.com/playlist?list=PLOQIclPSfdiY",
-      "modified_date": "20261003",
+      "modified_date": "20261002",
       "view_count": 23,
       "video_count": 1,
       "videos": [
@@ -34,8 +75,8 @@
           "id": "o1j7qHulVJ4",
           "title": "Sips plays Graveyard Keeper 2!",
           "duration": 17643,
-          "view_count": 21000,
-          "upload_date": "20261003"
+          "view_count": 23000,
+          "upload_date": "20261002"
         }
       ]
     },
@@ -43,7 +84,7 @@
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20261004",
+      "modified_date": "20261003",
       "view_count": 610,
       "video_count": 12,
       "videos": [
@@ -66,13 +107,13 @@
           "title": "Refusing to use guns just works in Wardogs!",
           "duration": 28990,
           "view_count": 25000,
-          "upload_date": "20260923"
+          "upload_date": "20260916"
         },
         {
           "id": "nSogCZt3Z7g",
           "title": "Stuck in YogTowers Playing Wardogs!",
           "duration": 7357,
-          "view_count": 12000,
+          "view_count": 13000,
           "upload_date": "20260923"
         },
         {
@@ -87,49 +128,49 @@
           "title": "The Logistics and UAV Master is back in Wardogs! Checking out Deified! #ad",
           "duration": 28550,
           "view_count": 19000,
-          "upload_date": "20260924"
+          "upload_date": "20260923"
         },
         {
           "id": "gHNrtFzo0g8",
           "title": "Did I become a master helicopter pilot in Wardogs?! Checking out Rivage! #ad",
           "duration": 29806,
           "view_count": 20000,
-          "upload_date": "20260925"
+          "upload_date": "20260924"
         },
         {
           "id": "jv_NmRUZfHk",
           "title": "The pacifist is back in Wardogs and has Anti-Tank Weapons!",
           "duration": 29441,
           "view_count": 20000,
-          "upload_date": "20260926"
+          "upload_date": "20260925"
         },
         {
           "id": "bipzzSEDItA",
           "title": "Checking out Graveyard Keeper 2 & More Logistics in Wardogs!",
           "duration": 23122,
           "view_count": 26000,
-          "upload_date": "20260927"
+          "upload_date": "20260926"
         },
         {
           "id": "OOoyy32D8Rc",
           "title": "Sips joins Rust Isles & getting called a Hacker in WARDOGS!",
           "duration": 23934,
           "view_count": 18000,
-          "upload_date": "20260930"
+          "upload_date": "20260929"
         },
         {
           "id": "-1x5MYYQQFY",
           "title": "Back in Graveyard Keeper 2! More Wardoggin' logistics and UAV Stingers!",
           "duration": 31757,
           "view_count": 22000,
-          "upload_date": "20261001"
+          "upload_date": "20260930"
         },
         {
           "id": "02NDU3b1rjM",
           "title": "More Graveyard Keeper 2 and ALMOST Uninstalling Wardogs!",
           "duration": 24169,
-          "view_count": 18000,
-          "upload_date": "20261004"
+          "view_count": 19000,
+          "upload_date": "20261003"
         }
       ]
     },
