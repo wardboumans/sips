@@ -2,23 +2,30 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-08T12:05:56+00:00",
+  "updated_at": "2026-10-09T11:57:03+00:00",
   "playlist_count": 540,
   "playlists": [
     {
       "id": "PLLKTTebFTzp4",
       "title": "Police Chief Simulator",
       "url": "https://www.youtube.com/playlist?list=PLLKTTebFTzp4",
-      "modified_date": "20261008",
-      "view_count": 0,
-      "video_count": 1,
+      "modified_date": "20261009",
+      "view_count": 4,
+      "video_count": 2,
       "videos": [
         {
           "id": "qmDHX8VU58U",
           "title": "Sips is the new chief in town! - Police Chief Simulator!",
           "duration": 7163,
-          "view_count": 13000,
-          "upload_date": "20261007"
+          "view_count": 28000,
+          "upload_date": "20261008"
+        },
+        {
+          "id": "cNirDcLwo2Y",
+          "title": "Welcome to the most efficient police station in Police Chief Simulator!",
+          "duration": 23241,
+          "view_count": 17000,
+          "upload_date": "20261008"
         }
       ]
     },
@@ -27,15 +34,15 @@
       "title": "Warhammer Survivors",
       "url": "https://www.youtube.com/playlist?list=PLXVUNB6q7Thg",
       "modified_date": "20261007",
-      "view_count": 0,
+      "view_count": 4,
       "video_count": 1,
       "videos": [
         {
           "id": "pfwF88fSB0U",
           "title": "Sips' First look at Warhammer Survivors! #ad",
           "duration": 6148,
-          "view_count": 23000,
-          "upload_date": "20261008"
+          "view_count": 25000,
+          "upload_date": "20261007"
         }
       ]
     },
@@ -44,15 +51,15 @@
       "title": "Dressmaker",
       "url": "https://www.youtube.com/playlist?list=PLcX8Q1X13r6M",
       "modified_date": "20261007",
-      "view_count": 0,
+      "view_count": 12,
       "video_count": 1,
       "videos": [
         {
           "id": "3hTzHfuXn2Q",
-          "title": "Sips plays Dressmaker and unlocks his inner fashionista!",
+          "title": "Bet you didn't think Sips would play Dressmaker",
           "duration": 7541,
-          "view_count": 14000,
-          "upload_date": "20261008"
+          "view_count": 18000,
+          "upload_date": "20261007"
         }
       ]
     },
@@ -61,36 +68,36 @@
       "title": "Bowling Alley Simulator",
       "url": "https://www.youtube.com/playlist?list=PLbEGhixP7xRQ",
       "modified_date": "20261008",
-      "view_count": 0,
+      "view_count": 31,
       "video_count": 4,
       "videos": [
         {
           "id": "A9UJkpoIjg4",
           "title": "Sips checks out Bowling Alley Simulator!",
           "duration": 24105,
-          "view_count": 27000,
-          "upload_date": "20261007"
+          "view_count": 28000,
+          "upload_date": "20261006"
         },
         {
           "id": "UTqJysqCe_k",
           "title": "Running a tight ship in Bowling Alley Simulator",
           "duration": 3983,
-          "view_count": 4500,
-          "upload_date": "20261008"
+          "view_count": 5000,
+          "upload_date": "20261007"
         },
         {
           "id": "n6n1US2KY08",
           "title": "Bowling Alley Sim! Checking out Find The Needle DEMO and Police Chief Simulator!",
           "duration": 30639,
-          "view_count": 20000,
-          "upload_date": "20261007"
+          "view_count": 21000,
+          "upload_date": "20261008"
         },
         {
           "id": "nJA7MOnaItY",
           "title": "I might have hit my limit in Bowling Alley Sim",
           "duration": 4234,
-          "view_count": 2500,
-          "upload_date": "20261007"
+          "view_count": 4400,
+          "upload_date": "20261008"
         }
       ]
     },
@@ -98,16 +105,16 @@
       "id": "PLOQIclPSfdiY",
       "title": "Graveyard Keeper 2",
       "url": "https://www.youtube.com/playlist?list=PLOQIclPSfdiY",
-      "modified_date": "20261003",
-      "view_count": 23,
+      "modified_date": "20261002",
+      "view_count": 63,
       "video_count": 1,
       "videos": [
         {
           "id": "o1j7qHulVJ4",
           "title": "Sips plays Graveyard Keeper 2!",
           "duration": 17643,
-          "view_count": 23000,
-          "upload_date": "20261003"
+          "view_count": 24000,
+          "upload_date": "20261002"
         }
       ]
     },
@@ -115,8 +122,8 @@
       "id": "PLfXzqzqFykOA",
       "title": "Wardogs",
       "url": "https://www.youtube.com/playlist?list=PLfXzqzqFykOA",
-      "modified_date": "20261004",
-      "view_count": 610,
+      "modified_date": "20261003",
+      "view_count": 818,
       "video_count": 12,
       "videos": [
         {
@@ -130,7 +137,7 @@
           "id": "5ZFfqEfG2CE",
           "title": "Mr Mortar is back in action! - Wardogs!",
           "duration": 23913,
-          "view_count": 24000,
+          "view_count": 25000,
           "upload_date": "20260918"
         },
         {
@@ -173,35 +180,35 @@
           "title": "The pacifist is back in Wardogs and has Anti-Tank Weapons!",
           "duration": 29441,
           "view_count": 20000,
-          "upload_date": "20260926"
+          "upload_date": "20260925"
         },
         {
           "id": "bipzzSEDItA",
           "title": "Checking out Graveyard Keeper 2 & More Logistics in Wardogs!",
           "duration": 23122,
           "view_count": 27000,
-          "upload_date": "20260927"
+          "upload_date": "20260926"
         },
         {
           "id": "OOoyy32D8Rc",
           "title": "Sips joins Rust Isles & getting called a Hacker in WARDOGS!",
           "duration": 23934,
           "view_count": 18000,
-          "upload_date": "20260930"
+          "upload_date": "20260929"
         },
         {
           "id": "-1x5MYYQQFY",
           "title": "Back in Graveyard Keeper 2! More Wardoggin' logistics and UAV Stingers!",
           "duration": 31757,
-          "view_count": 22000,
-          "upload_date": "20261001"
+          "view_count": 23000,
+          "upload_date": "20260930"
         },
         {
           "id": "02NDU3b1rjM",
           "title": "More Graveyard Keeper 2 and ALMOST Uninstalling Wardogs!",
           "duration": 24169,
           "view_count": 19000,
-          "upload_date": "20261004"
+          "upload_date": "20261003"
         }
       ]
     },
