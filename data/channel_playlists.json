@@ -2,23 +2,40 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-13T12:45:40+00:00",
-  "playlist_count": 541,
+  "updated_at": "2026-10-14T10:17:11+00:00",
+  "playlist_count": 542,
   "playlists": [
+    {
+      "id": "PLPveVSbesA10",
+      "title": "Planet Zoo 2",
+      "url": "https://www.youtube.com/playlist?list=PLPveVSbesA10",
+      "modified_date": "20261014",
+      "view_count": 0,
+      "video_count": 1,
+      "videos": [
+        {
+          "id": "afIu2dhyr_0",
+          "title": "Terryland Returns in Planet Zoo 2!",
+          "duration": 9391,
+          "view_count": 12000,
+          "upload_date": "20261013"
+        }
+      ]
+    },
     {
       "id": "PLITOXviBP-aQ",
       "title": "Car Park Capital",
       "url": "https://www.youtube.com/playlist?list=PLITOXviBP-aQ",
-      "modified_date": "20261011",
-      "view_count": 12,
+      "modified_date": "20261010",
+      "view_count": 17,
       "video_count": 1,
       "videos": [
         {
           "id": "-TCQA3zaJnU",
           "title": "Move over GTA 6, the GOTY is HERE! - Car Park Capital",
           "duration": 22354,
-          "view_count": 41000,
-          "upload_date": "20261011"
+          "view_count": 42000,
+          "upload_date": "20261010"
         }
       ]
     },
@@ -26,8 +43,8 @@
       "id": "PLLKTTebFTzp4",
       "title": "Police Chief Simulator",
       "url": "https://www.youtube.com/playlist?list=PLLKTTebFTzp4",
-      "modified_date": "20261010",
-      "view_count": 133,
+      "modified_date": "20261014",
+      "view_count": 147,
       "video_count": 2,
       "videos": [
         {
@@ -35,14 +52,14 @@
           "title": "Sips is the new chief in town! - Police Chief Simulator!",
           "duration": 7163,
           "view_count": 40000,
-          "upload_date": "20261009"
+          "upload_date": "20261008"
         },
         {
           "id": "cNirDcLwo2Y",
           "title": "Welcome to the most efficient police station in Police Chief Simulator!",
           "duration": 23241,
-          "view_count": 26000,
-          "upload_date": "20261010"
+          "view_count": 27000,
+          "upload_date": "20261009"
         }
       ]
     },
@@ -50,8 +67,8 @@
       "id": "PLXVUNB6q7Thg",
       "title": "Warhammer Survivors",
       "url": "https://www.youtube.com/playlist?list=PLXVUNB6q7Thg",
-      "modified_date": "20261008",
-      "view_count": 16,
+      "modified_date": "20261007",
+      "view_count": 19,
       "video_count": 1,
       "videos": [
         {
@@ -59,7 +76,7 @@
           "title": "Sips' First look at Warhammer Survivors! #ad",
           "duration": 6148,
           "view_count": 27000,
-          "upload_date": "20261008"
+          "upload_date": "20261007"
         }
       ]
     },
@@ -67,7 +84,7 @@
       "id": "PLcX8Q1X13r6M",
       "title": "Dressmaker",
       "url": "https://www.youtube.com/playlist?list=PLcX8Q1X13r6M",
-      "modified_date": "20261008",
+      "modified_date": "20261007",
       "view_count": 29,
       "video_count": 1,
       "videos": [
@@ -76,7 +93,7 @@
           "title": "Bet you didn't think Sips would play Dressmaker",
           "duration": 7541,
           "view_count": 24000,
-          "upload_date": "20261008"
+          "upload_date": "20261007"
         }
       ]
     },
@@ -84,37 +101,37 @@
       "id": "PLbEGhixP7xRQ",
       "title": "Bowling Alley Simulator",
       "url": "https://www.youtube.com/playlist?list=PLbEGhixP7xRQ",
-      "modified_date": "20261009",
-      "view_count": 135,
+      "modified_date": "20261008",
+      "view_count": 168,
       "video_count": 4,
       "videos": [
         {
           "id": "A9UJkpoIjg4",
           "title": "Sips checks out Bowling Alley Simulator!",
           "duration": 24105,
-          "view_count": 30000,
-          "upload_date": "20261007"
+          "view_count": 31000,
+          "upload_date": "20261006"
         },
         {
           "id": "UTqJysqCe_k",
           "title": "Running a tight ship in Bowling Alley Simulator",
           "duration": 3983,
-          "view_count": 6000,
-          "upload_date": "20261008"
+          "view_count": 6100,
+          "upload_date": "20261007"
         },
         {
           "id": "n6n1US2KY08",
           "title": "Bowling Alley Sim! Checking out Find The Needle DEMO and Police Chief Simulator!",
           "duration": 30639,
-          "view_count": 23000,
-          "upload_date": "20261009"
+          "view_count": 24000,
+          "upload_date": "20261008"
         },
         {
           "id": "nJA7MOnaItY",
           "title": "I might have hit my limit in Bowling Alley Sim",
           "duration": 4234,
-          "view_count": 7000,
-          "upload_date": "20261009"
+          "view_count": 7100,
+          "upload_date": "20261008"
         }
       ]
     },
