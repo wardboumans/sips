@@ -2,15 +2,60 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-22T10:14:45+00:00",
-  "playlist_count": 543,
+  "updated_at": "2026-10-23T10:07:44+00:00",
+  "playlist_count": 544,
   "playlists": [
+    {
+      "id": "PLaDjC01LgKTs",
+      "title": "Obenseuer",
+      "url": "https://www.youtube.com/playlist?list=PLaDjC01LgKTs",
+      "modified_date": "20261023",
+      "view_count": 0,
+      "video_count": 5,
+      "videos": [
+        {
+          "id": "8Erev_DASjg",
+          "title": "The End of TCG Card Shop Sim For Now? Checking out Obenseuer!",
+          "duration": 27185,
+          "view_count": 33000,
+          "upload_date": "20261017"
+        },
+        {
+          "id": "clHRpX3uMnc",
+          "title": "Welcome to Landlord Larry's Tenement - Obenseuer",
+          "duration": 15878,
+          "view_count": 19000,
+          "upload_date": "20261020"
+        },
+        {
+          "id": "WTLCxL9UA_c",
+          "title": "Getting Arrested Twice in Obenseuer",
+          "duration": 16829,
+          "view_count": 14000,
+          "upload_date": "20261021"
+        },
+        {
+          "id": "yUY_oT0U6a0",
+          "title": "The Mines in Obenseuer are Insane and we have Moonshine!",
+          "duration": 27356,
+          "view_count": 15000,
+          "upload_date": "20261022"
+        },
+        {
+          "id": "FfrHyPscCis",
+          "title": "Check out my cheese collection in Obenseuer!",
+          "duration": 18673,
+          "view_count": 10000,
+          "upload_date": "20261022"
+        }
+      ]
+    },
     {
       "id": "PLBoitpHxM6SE",
       "title": "My Recycling Center 2",
       "url": "https://www.youtube.com/playlist?list=PLBoitpHxM6SE",
       "modified_date": "20261016",
-      "view_count": 30,
+      "view_count": 32,
       "video_count": 1,
       "videos": [
         {
@@ -27,7 +72,7 @@
       "title": "Planet Zoo 2",
       "url": "https://www.youtube.com/playlist?list=PLPveVSbesA10",
       "modified_date": "20261016",
-      "view_count": 122,
+      "view_count": 140,
       "video_count": 2,
       "videos": [
         {
@@ -51,14 +96,14 @@
       "title": "Car Park Capital",
       "url": "https://www.youtube.com/playlist?list=PLITOXviBP-aQ",
       "modified_date": "20261009",
-      "view_count": 54,
+      "view_count": 53,
       "video_count": 1,
       "videos": [
         {
           "id": "-TCQA3zaJnU",
           "title": "Move over GTA 6, the GOTY is HERE! - Car Park Capital",
           "duration": 22354,
-          "view_count": 46000,
+          "view_count": 47000,
           "upload_date": "20261010"
         }
       ]
@@ -68,7 +113,7 @@
       "title": "Police Chief Simulator",
       "url": "https://www.youtube.com/playlist?list=PLLKTTebFTzp4",
       "modified_date": "20261013",
-      "view_count": 233,
+      "view_count": 240,
       "video_count": 2,
       "videos": [
         {
@@ -76,7 +121,7 @@
           "title": "Sips is the new chief in town! - Police Chief Simulator!",
           "duration": 7163,
           "view_count": 42000,
-          "upload_date": "20261008"
+          "upload_date": "20261009"
         },
         {
           "id": "cNirDcLwo2Y",
@@ -100,7 +145,7 @@
           "title": "Sips' First look at Warhammer Survivors! #ad",
           "duration": 6148,
           "view_count": 28000,
-          "upload_date": "20261008"
+          "upload_date": "20261009"
         }
       ]
     },
