@@ -2,36 +2,36 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-10-26T11:10:39+00:00",
+  "updated_at": "2026-10-27T10:38:30+00:00",
   "playlist_count": 544,
   "playlists": [
     {
       "id": "PLaDjC01LgKTs",
       "title": "Obenseuer",
       "url": "https://www.youtube.com/playlist?list=PLaDjC01LgKTs",
-      "modified_date": "20261023",
-      "view_count": 303,
-      "video_count": 5,
+      "modified_date": "20261027",
+      "view_count": 536,
+      "video_count": 9,
       "videos": [
         {
           "id": "8Erev_DASjg",
           "title": "The End of TCG Card Shop Sim For Now? Checking out Obenseuer!",
           "duration": 27185,
-          "view_count": 37000,
+          "view_count": 39000,
           "upload_date": "20261017"
         },
         {
           "id": "clHRpX3uMnc",
           "title": "Welcome to Landlord Larry's Tenement - Obenseuer",
           "duration": 15878,
-          "view_count": 22000,
+          "view_count": 23000,
           "upload_date": "20261020"
         },
         {
           "id": "WTLCxL9UA_c",
           "title": "Getting Arrested Twice in Obenseuer",
           "duration": 16829,
-          "view_count": 16000,
+          "view_count": 17000,
           "upload_date": "20261021"
         },
         {
@@ -47,6 +47,34 @@
           "duration": 18673,
           "view_count": 14000,
           "upload_date": "20261023"
+        },
+        {
+          "id": "5qMY5iPvDcc",
+          "title": "I think we have to pull a Bank Heist Now? - Obenseuer",
+          "duration": 26375,
+          "view_count": 14000,
+          "upload_date": "20261024"
+        },
+        {
+          "id": "TDiDZqm4HrQ",
+          "title": "I'm Painfully Addicted to Obenseuer and Now I'm Robbing Banks?!",
+          "duration": 19265,
+          "view_count": 11000,
+          "upload_date": "20261025"
+        },
+        {
+          "id": "KWRPc3T6tfg",
+          "title": "My Entire Life Revolves Around Turnip Wine Now - Obenseuer",
+          "duration": 15781,
+          "view_count": 10000,
+          "upload_date": "20261025"
+        },
+        {
+          "id": "3Ia2dkrelJI",
+          "title": "Late Night Obenseuer Stream! Don't Judge Me...",
+          "duration": 12896,
+          "view_count": 10000,
+          "upload_date": "20261026"
         }
       ]
     },
@@ -55,7 +83,7 @@
       "title": "My Recycling Center 2",
       "url": "https://www.youtube.com/playlist?list=PLBoitpHxM6SE",
       "modified_date": "20261015",
-      "view_count": 49,
+      "view_count": 55,
       "video_count": 1,
       "videos": [
         {
@@ -72,7 +100,7 @@
       "title": "Planet Zoo 2",
       "url": "https://www.youtube.com/playlist?list=PLPveVSbesA10",
       "modified_date": "20261015",
-      "view_count": 193,
+      "view_count": 201,
       "video_count": 2,
       "videos": [
         {
@@ -96,15 +124,15 @@
       "title": "Car Park Capital",
       "url": "https://www.youtube.com/playlist?list=PLITOXviBP-aQ",
       "modified_date": "20261009",
-      "view_count": 59,
+      "view_count": 60,
       "video_count": 1,
       "videos": [
         {
           "id": "-TCQA3zaJnU",
           "title": "Move over GTA 6, the GOTY is HERE! - Car Park Capital",
           "duration": 22354,
-          "view_count": 47000,
-          "upload_date": "20261012"
+          "view_count": 48000,
+          "upload_date": "20261013"
         }
       ]
     },
@@ -113,7 +141,7 @@
       "title": "Police Chief Simulator",
       "url": "https://www.youtube.com/playlist?list=PLLKTTebFTzp4",
       "modified_date": "20261013",
-      "view_count": 269,
+      "view_count": 275,
       "video_count": 2,
       "videos": [
         {
@@ -121,14 +149,14 @@
           "title": "Sips is the new chief in town! - Police Chief Simulator!",
           "duration": 7163,
           "view_count": 42000,
-          "upload_date": "20261012"
+          "upload_date": "20261013"
         },
         {
           "id": "cNirDcLwo2Y",
           "title": "Welcome to the most efficient police station in Police Chief Simulator!",
           "duration": 23241,
           "view_count": 29000,
-          "upload_date": "20261012"
+          "upload_date": "20261013"
         }
       ]
     },
@@ -137,7 +165,7 @@
       "title": "Warhammer Survivors",
       "url": "https://www.youtube.com/playlist?list=PLXVUNB6q7Thg",
       "modified_date": "20261006",
-      "view_count": 24,
+      "view_count": 29,
       "video_count": 1,
       "videos": [
         {
@@ -145,7 +173,7 @@
           "title": "Sips' First look at Warhammer Survivors! #ad",
           "duration": 6148,
           "view_count": 28000,
-          "upload_date": "20261009"
+          "upload_date": "20261013"
         }
       ]
     },
