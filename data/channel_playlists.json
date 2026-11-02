@@ -2,79 +2,86 @@
   "channel": "Sips - Live!",
   "channel_id": "UCJW9YScngZyevv40qOS5QYQ",
   "channel_url": "https://www.youtube.com/channel/UCJW9YScngZyevv40qOS5QYQ",
-  "updated_at": "2026-11-01T11:52:51+00:00",
+  "updated_at": "2026-11-02T13:33:32+00:00",
   "playlist_count": 544,
   "playlists": [
     {
       "id": "PLaDjC01LgKTs",
       "title": "Obenseuer",
       "url": "https://www.youtube.com/playlist?list=PLaDjC01LgKTs",
-      "modified_date": "20261027",
-      "view_count": 1841,
-      "video_count": 9,
+      "modified_date": "20261102",
+      "view_count": 2040,
+      "video_count": 10,
       "videos": [
         {
           "id": "8Erev_DASjg",
           "title": "The End of TCG Card Shop Sim For Now? Checking out Obenseuer!",
           "duration": 27185,
           "view_count": 43000,
-          "upload_date": "20261018"
+          "upload_date": "20261020"
         },
         {
           "id": "clHRpX3uMnc",
           "title": "Welcome to Landlord Larry's Tenement - Obenseuer",
           "duration": 15878,
-          "view_count": 27000,
-          "upload_date": "20261020"
+          "view_count": 28000,
+          "upload_date": "20261021"
         },
         {
           "id": "WTLCxL9UA_c",
           "title": "Getting Arrested Twice in Obenseuer",
           "duration": 16829,
           "view_count": 20000,
-          "upload_date": "20261021"
+          "upload_date": "20261022"
         },
         {
           "id": "yUY_oT0U6a0",
           "title": "The Mines in Obenseuer are Insane and we have Moonshine!",
           "duration": 27356,
           "view_count": 23000,
-          "upload_date": "20261022"
+          "upload_date": "20261023"
         },
         {
           "id": "FfrHyPscCis",
           "title": "Check out my cheese collection in Obenseuer!",
           "duration": 18673,
           "view_count": 17000,
-          "upload_date": "20261023"
+          "upload_date": "20261024"
         },
         {
           "id": "5qMY5iPvDcc",
           "title": "I think we have to pull a Bank Heist Now? - Obenseuer",
           "duration": 26375,
           "view_count": 17000,
-          "upload_date": "20261024"
+          "upload_date": "20261025"
         },
         {
           "id": "TDiDZqm4HrQ",
           "title": "I'm Painfully Addicted to Obenseuer and Now I'm Robbing Banks?!",
           "duration": 19265,
-          "view_count": 13000,
-          "upload_date": "20261025"
+          "view_count": 14000,
+          "upload_date": "20261026"
         },
         {
           "id": "KWRPc3T6tfg",
           "title": "My Entire Life Revolves Around Turnip Wine Now - Obenseuer",
           "duration": 15781,
           "view_count": 12000,
-          "upload_date": "20261025"
+          "upload_date": "20261026"
         },
         {
           "id": "3Ia2dkrelJI",
           "title": "Late Night Obenseuer Stream! Don't Judge Me...",
           "duration": 12896,
+          "view_count": 13000,
+          "upload_date": "20261027"
+        },
+        {
+          "id": "HdaL8cxTL8g",
+          "title": "Turning My Apartment Into a Full Industrial Workshop in Obenseuer!",
+          "duration": 24547,
           "view_count": 12000,
-          "upload_date": "20261026"
+          "upload_date": "20261028"
         }
       ]
     },
@@ -83,7 +90,7 @@
       "title": "My Recycling Center 2",
       "url": "https://www.youtube.com/playlist?list=PLBoitpHxM6SE",
       "modified_date": "20261015",
-      "view_count": 63,
+      "view_count": 64,
       "video_count": 1,
       "videos": [
         {
@@ -91,7 +98,7 @@
           "title": "Sips checks out My Recycling Center 2! (GOTY Contender!)",
           "duration": 10373,
           "view_count": 30000,
-          "upload_date": "20261018"
+          "upload_date": "20261020"
         }
       ]
     },
@@ -100,7 +107,7 @@
       "title": "Planet Zoo 2",
       "url": "https://www.youtube.com/playlist?list=PLPveVSbesA10",
       "modified_date": "20261015",
-      "view_count": 212,
+      "view_count": 213,
       "video_count": 2,
       "videos": [
         {
@@ -108,14 +115,14 @@
           "title": "Terryland Returns in Planet Zoo 2!",
           "duration": 9391,
           "view_count": 32000,
-          "upload_date": "20261018"
+          "upload_date": "20261020"
         },
         {
           "id": "TA7KmPXTXsc",
           "title": "Planet Zoo 2 isn't scratching the itch...",
           "duration": 7275,
           "view_count": 18000,
-          "upload_date": "20261018"
+          "upload_date": "20261020"
         }
       ]
     },
@@ -132,7 +139,7 @@
           "title": "Move over GTA 6, the GOTY is HERE! - Car Park Capital",
           "duration": 22354,
           "view_count": 48000,
-          "upload_date": "20261011"
+          "upload_date": "20261013"
         }
       ]
     },
@@ -141,7 +148,7 @@
       "title": "Police Chief Simulator",
       "url": "https://www.youtube.com/playlist?list=PLLKTTebFTzp4",
       "modified_date": "20261013",
-      "view_count": 311,
+      "view_count": 314,
       "video_count": 2,
       "videos": [
         {
@@ -149,14 +156,14 @@
           "title": "Sips is the new chief in town! - Police Chief Simulator!",
           "duration": 7163,
           "view_count": 43000,
-          "upload_date": "20261011"
+          "upload_date": "20261013"
         },
         {
           "id": "cNirDcLwo2Y",
           "title": "Welcome to the most efficient police station in Police Chief Simulator!",
           "duration": 23241,
           "view_count": 30000,
-          "upload_date": "20261011"
+          "upload_date": "20261013"
         }
       ]
     },
@@ -165,7 +172,7 @@
       "title": "Warhammer Survivors",
       "url": "https://www.youtube.com/playlist?list=PLXVUNB6q7Thg",
       "modified_date": "20261006",
-      "view_count": 29,
+      "view_count": 32,
       "video_count": 1,
       "videos": [
         {
